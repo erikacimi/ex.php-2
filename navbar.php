@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <?php 
+        echo '<a href="http://localhost/ecommerce/index.php"><h1>Products</h1></a>';
+        echo '<a href="http://localhost/ecommerce/cart.php"><h1>Cart</h1></a>';
+        echo '<h1>Cart</h1>';
+    ?>
+</body>
+</html>
